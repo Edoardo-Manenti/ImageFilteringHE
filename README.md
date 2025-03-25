@@ -4,7 +4,7 @@ ImageFilteringHE is a project that demonstrates the application of homomorphic e
 
 ## Objective
 
-The primary goal of this project is to showcase how homomorphic encryption can be utilized to perform image processing tasks directly on encrypted images. This approach ensures that sensitive image data remains confidential, as the processing does not require exposing the unencrypted content. The project includes implementations of basic logical operations such as AND and OR on encrypted images, demonstrating the feasibility of encrypted domain image filtering.
+The primary goal of this project is to showcase how homomorphic encryption can be utilized to perform image processing tasks directly on encrypted images. This approach ensures that sensitive image data remains confidential, as the processing does not require exposing the unencrypted content. The project includes implementations of basic logical operations such as AND and OR on encrypted images, using kernel-based operations to perform filtering in the encrypted domain, demonstrating the feasibility of encrypted domain image filtering.
 
 ## Technologies Used
 
@@ -19,4 +19,3 @@ This project is licensed under the Apache License 2.0. For more details, please 
 ---
 
 *Note: This README provides a high-level overview of the project's objectives and the technologies employed. For detailed implementation insights and code examples, please refer to the source code files within the repository.*
-
